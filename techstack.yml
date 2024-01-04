@@ -1,8 +1,8 @@
 repo_name: dot-net-org/flask
-report_id: 40cc624b4902a783d105039c3515f681
+report_id: e382889c5371a62f1dfefb9e13b7e5df
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-04T07:21:19+00:00'
+timestamp: '2024-01-04T12:55:37+00:00'
 requested_by: bob-wise0
 provider: github
 branch: main
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/dot-net-org/flask
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/dot-net-org/flask
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -35,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/dot-net-org/flask/blob/main/examples/tutorial/flaskr/schema.sql
   detection_source: examples/tutorial/flaskr/schema.sql
   last_updated_by: David Lord
   last_updated_on: 2018-02-09 22:39:05.000000000 Z
@@ -47,6 +50,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/dot-net-org/flask
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -56,6 +60,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/dot-net-org/flask
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -65,6 +70,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/dot-net-org/flask/blob/main/.github/workflows/lock.yaml
   detection_source: ".github/workflows/lock.yaml"
   last_updated_by: David Lord
   last_updated_on: 2023-01-20 21:45:15.000000000 Z
@@ -78,6 +84,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Microservices Tools
   image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
+  detection_source_url: https://github.com/dot-net-org/flask/blob/main/.github/workflows/publish.yaml
   detection_source: ".github/workflows/publish.yaml"
   last_updated_by: David Lord
   last_updated_on: 2023-01-20 21:45:15.000000000 Z
@@ -113,6 +120,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3730/no-img-open-source.png
+  detection_source_url: https://github.com/dot-net-org/flask/blob/main/requirements/dev.txt
   detection_source: requirements/dev.txt
   last_updated_by: David Lord
   last_updated_on: 2020-05-23 21:03:11.000000000 Z
@@ -123,6 +131,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/7350/eaca159133a3901e24ddb407d1235c25_normal.png
+  detection_source_url: https://github.com/dot-net-org/flask/blob/main/requirements/typing.txt
   detection_source: requirements/typing.txt
   last_updated_by: David Lord
   last_updated_on: 2023-08-16 20:30:18.000000000 Z
@@ -133,6 +142,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4825/OhsWgbsr_normal.png
+  detection_source_url: https://github.com/dot-net-org/flask/blob/main/requirements/dev.txt
   detection_source: requirements/dev.txt
   last_updated_by: David Lord
   last_updated_on: 2020-05-23 21:03:11.000000000 Z
@@ -142,6 +152,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3581/no-img-open-source.png
+  detection_source_url: https://github.com/dot-net-org/flask/blob/main/requirements/dev.txt
   detection_source: requirements/dev.txt
   last_updated_by: David Lord
   last_updated_on: 2023-08-16 20:30:18.000000000 Z
